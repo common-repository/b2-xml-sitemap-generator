@@ -1,0 +1,14 @@
+h2#b2xml-title{
+	display: block;
+	background: url(images/b2_32.png) 0 5px no-repeat;
+	padding-left: 40px;
+	width: 256px;
+	margin: 5px 5px 0;
+}
+small{color: #999;}
+.b2xml-state{color: #00f;}
+.b2xml-error{color: #f00;}
+ul.ex-cat{display:block;width:400px;height:100px;margin:5px 0 0 40px;overflow:auto;border: 1px solid #ccc;}
+ul.ex-cat li{border-bottom: 1px dashed #999;}
+
+div.ex-list{margin:10px 0 13px 40px;}
